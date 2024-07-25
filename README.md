@@ -1,0 +1,2 @@
+forge build
+forge test
